@@ -1,10 +1,10 @@
 import { useState } from "react";
 
-export default function useGameCollection() {
+export default function useTarefaCollection() {
 
     const [tarefas, setTarefas] = useState(() => {
 
-        const storedTarefas = localStorage.getItem("tarefas-ppads");
+        const storedTarefas = localStorage.getItem("presence-pro-tarefas");
         if (!storedTarefas) return [];
         return JSON.parse(storedTarefas);
     });
@@ -15,7 +15,7 @@ export default function useGameCollection() {
         const tarefa = { id, title, description };
         setTarefas((state) => {
             const newState = [tarefa, ...state];
-            localStorage.setItem("tarefas-ppads", JSON.stringify(newState));
+            localStorage.setItem("presence-pro-tarefas", JSON.stringify(newState));
             return newState;
         }) 
     }
@@ -28,11 +28,30 @@ export default function useGameCollection() {
 
             setTarefas((state) => {
                 const newState = state.filter((tarefa) => tarefa.id !== id);
-                localStorage.setItem("tarefas-ppads", JSON.stringify(newState));
+                localStorage.setItem("presence-pro-tarefas", JSON.stringify(newState));
                 return newState;
             })
         }
     }
 
-    return { tarefas, addTarefa, removeTarefa };
+    const [observacoesContent, setObservacoesContent] = useState(() => {
+
+        const storedObservacoesContent = localStorage.getItem("presence-pro-observacoes");
+        if (!storedObservacoesContent) return [];
+        return JSON.parse(storedObservacoesContent);
+    });
+
+    const saveObservacoesContent = (content) => {
+        const date = new Date().toLocaleDateString();
+        const hours = new Date().getHours();
+        const minutes = new Date().getMinutes();
+        const lastUpdatedAt = `Ultima vez atualizado ${date} às ${hours}:${minutes}`;
+        setObservacoesContent(() => {
+            const newState = {content, lastUpdatedAt};
+            localStorage.setItem("presence-pro-observacoes", JSON.stringify(newState));
+            return newState;
+        })
+    }
+
+    return { tarefas, addTarefa, removeTarefa, observacoesContent, saveObservacoesContent };
 }

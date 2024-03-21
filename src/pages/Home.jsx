@@ -11,12 +11,16 @@ Home.propTypes = {
 
 
 export default function Home() {
-    const { tarefas, addTarefa, removeTarefa } = useTarefaCollection();
+    const { tarefas, addTarefa, removeTarefa, observacoesContent, saveObservacoesContent } = useTarefaCollection();
 
     const [showTarefaForm, setShowTarefaForm] = useState(false);
 
     const handleShowTarefaForm = (condition) => {
         setShowTarefaForm(condition);
+    }
+
+    const handleChange = (content) => {
+        saveObservacoesContent(content);
     }
 
     return (
@@ -62,8 +66,13 @@ export default function Home() {
             </article>
 
             {/* Observações */}
-            <textarea name="observacoes" id="observacoes">Observações</textarea>
-    
+            <textarea 
+                name="observacoes" 
+                id="observacoes" 
+                placeholder="Digite aqui as suas observações"
+                value={observacoesContent.content}
+                onChange={(ev) => handleChange(ev.target.value)}
+            ></textarea>
             {/* Calendário */}
             <article>Calendário</article>
         </div>
