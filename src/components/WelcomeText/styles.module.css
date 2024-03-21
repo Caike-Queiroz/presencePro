@@ -1,0 +1,7 @@
+.welcomeText {
+  display: flex;
+  width: fit-content;
+  margin-top: 2rem;
+  margin-left: 18rem;
+  color: #495D72;
+}

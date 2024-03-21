@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Início home */
+
+.container {
+  display: flex;
+  /* justify-content: center; */
+  margin-left: 18rem;
+  gap: 3rem;
+}
+
+article {
+  margin: 3rem 0;
+  padding: 1rem;
+  border: 1px dashed #1c1d223f;
+  border-radius: 12px;
+  height: fit-content;  
+  width: 22.5rem;
+}
+
+textarea {
+  resize: none;
+  font-size: 1rem;
+  margin: 3rem 0;
+  padding: 1rem;
+  border: 1px dashed #1c1d223f;
+  border-radius: 12px;
+  height: 38rem;  
+  width: 22.5rem;
+}
+
+.toDoList {
+  display: flex;
+  justify-content: space-between;
+  width: 20.5rem;
+  gap: 2rem;
+}
+
+.toDoList button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  border: 0;
+  background-color: transparent;
+}
+
+.tarefaContainer {
+  margin-top: 1.2rem;
+  border: 1px solid #1c1d2217;
+  border-radius: 12px;
+  padding: .5rem .5rem 1.1rem;
+  width: 20.5rem;
+}
+
+.tarefaContent {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: .5rem;
+  gap: 1rem;
+}
+
+.editBtn {
+  width: 2rem;
+  border: 1px solid #1c1d2217;
+  background-color: #FF4B4A;
+  color: #fff;
+  font-weight: 600;
+  border-radius: 14px;
+  cursor: pointer;
+}
+
+.tarefaDescription {
+  color: #495D72;
+}
+
+/* Fim home */
+

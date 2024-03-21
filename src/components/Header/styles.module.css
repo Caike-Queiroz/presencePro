@@ -1,0 +1,47 @@
+header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 18rem;
+  height: 5rem;
+  border-bottom: 2px solid #ced8e5;
+}
+
+header input {
+  width: 30rem;
+  padding: 0.75rem;
+  background-color: #f5f6f8;
+  border: 0;
+  border-radius: 6px;
+}
+
+.headerBtns {
+  margin-left: 15rem;
+}
+
+header button {
+  width: 3.5rem;
+  padding: 0.75rem;
+  border: 0;
+  cursor: pointer;
+  transition: .3s;
+}
+
+header button:hover {
+  background-color: aqua;
+  transition: .3s;
+}
+
+header .light {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+header .dark img {
+  height: 20px;
+}
+
+header .dark {
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}

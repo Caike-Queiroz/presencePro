@@ -1,0 +1,48 @@
+.turmasSelectContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 24rem;
+    margin-top: 2rem;
+}
+
+.selectAno {
+    width: 60rem;
+    display: flex;
+    justify-content: space-between;
+    height: fit-content;
+    border: 0;
+}
+
+.selectAno > h1 {
+    font-size: 2rem;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #385385;
+}
+
+.selectAno > select{
+    border: 0;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    font-weight: lighter;
+    background-color: aqua;
+    padding: .8rem;
+}
+
+.turmasList {
+    display: flex;
+    flex-direction: column;
+}
+
+.turma {
+    width: 60rem;
+    padding: 2rem;
+    margin-top: 2rem;
+    border-radius: 1rem;
+    font-size: 1.2rem;
+    color: #495D72;
+    border: 0;
+    background-color: #eee;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
