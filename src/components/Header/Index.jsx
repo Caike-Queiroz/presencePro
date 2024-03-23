@@ -8,11 +8,17 @@ export default function Header() {
             </div>
 
             <div className={styles.headerBtns}>
-                <button type="button" className={styles.light}>
+                <button 
+                    type="button" 
+                    className={styles.light}
+                >
                     <img src="./src/assets/light.png" alt="Light"/>
                 </button>
                 
-                <button type="button" className={styles.dark}>
+                <button 
+                    type="button" 
+                    className={styles.dark}
+                >
                     <img src="./src/assets/dark.png" alt="Dark"/>
                 </button>
             </div>
