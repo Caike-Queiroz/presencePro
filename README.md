@@ -1,8 +1,7 @@
-# React + Vite
+## Prática Profissional em Análise e Desenvolvimento de Sistemas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### CAIKE RODRIGUES QUEIROZ  | RA 10369901
+### JOAO PAULO DIAS OLIVEIRA | RA 10086158
+### MATEUS FRANCISCO ALVES   | RA 10370006
+### RENATA APARECIDA DE LIMA | RA 10289623
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
