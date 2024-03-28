@@ -46,3 +46,13 @@
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
+.turmaLink {
+    text-decoration: none;
+    color: #495D72;
+    cursor: pointer;
+    transition: .3s;
+}
+
+.turmaLink:hover {
+    background-color: #80808031;
+}

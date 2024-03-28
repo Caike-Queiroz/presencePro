@@ -3,7 +3,9 @@ import RootLayout from "./pages/RootLayout";
 import Home from "./pages/Home";
 import Turmas from "./pages/Turmas";
 import Turma from "./pages/Turma";
+import TurmaBoundary from "./error-boundaries/TurmaBoundary";
 import Configuracoes from "./pages/Configuracoes";
+import loadTurma from "./loaders/turmas";
 
 const router = createBrowserRouter([
     {
@@ -16,8 +18,10 @@ const router = createBrowserRouter([
             path: "turmas",
             element: <Turmas/>
         },{
-            path: "turmas/:turmaid",
-            element: <Turma/>
+            path: "turmas/:turmaId",
+            element: <Turma/>,
+            loader: loadTurma,
+            errorElement: <TurmaBoundary/>
         },
         {
             path: "configuracoes",

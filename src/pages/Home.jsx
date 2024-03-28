@@ -2,13 +2,13 @@ import { useState } from "react";
 import NewTarefaForm from "../components/NewTarefaForm/Index";
 import useTarefaCollection from "../hooks/useTarefaCollection";
 import PropTypes from "prop-types";
+// import { CalendarComponent } from "@syncfusion/ej2-react-calendars";
 
 Home.propTypes = {
     tarefas: PropTypes.array,
     title: PropTypes.string,
     description: PropTypes.string
 }
-
 
 export default function Home() {
     const { tarefas, addTarefa, removeTarefa, observacoesContent, saveObservacoesContent } = useTarefaCollection();
@@ -74,7 +74,8 @@ export default function Home() {
                 onChange={(ev) => handleChange(ev.target.value)}
             ></textarea>
             {/* Calendário */}
-            <article>Calendário</article>
+            {/* <CalendarComponent/> */}
+
         </div>
     )
 }

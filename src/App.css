@@ -81,3 +81,85 @@ textarea {
 
 /* Fim home */
 
+/* Início de Turma */
+
+.turmaContainer {
+  margin-left: 18rem;
+  margin-right: 10rem;
+  margin-top: 2rem;
+}
+
+.turmaTitle {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+
+.turmaTitle > h1 {
+  color: #385385;
+}
+
+.buttons {
+  display: flex;
+  gap: 2rem;
+}
+
+.buttons > button {
+  background-color: #95C4FA;
+  font-size: .9rem;
+  color: #495D72;
+  padding: .75rem;
+  border: 0;
+  border-radius: 60px;
+}
+
+.buttons > button:hover {
+  cursor: pointer;
+  transition: .5s;
+  background-color: #61abff;
+}
+
+.buttons img {
+  margin-left: .5rem;
+  height: 16px;
+}
+
+.turmaTable {
+  margin-bottom: 2rem;
+}
+
+.turmaFooter {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 5rem;
+}
+
+.turmaFooter > button {
+  background-color: #FF4B4A;
+  font-size: .9rem;
+  font-weight: 600;
+  color: #fff;
+  padding: .75rem;
+  width: 6rem;
+  border: 0;
+  border-radius: 60px;
+}
+
+.turmaFooter > button:first-child {
+  background-color: #7DE5B0;
+  font-weight: 600;
+  color: #fff;
+}
+
+.turmaTitle > select {
+  border: 0;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  font-weight: lighter;
+  background-color: #eee;
+  padding: .8rem;
+}
+
+
+/* Fim de Turma */

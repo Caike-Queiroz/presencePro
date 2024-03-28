@@ -1,31 +1,64 @@
+import { useState } from "react";
 import styles from "./styles.module.css"
+import { Link } from "react-router-dom";
+import escola from "../../database.json";
 
 
 export default function TurmasSelect() {
+    const [ano, setAno] = useState('');
+
+    const options = [
+        {label: "1° ano", value: 1},
+        {label: "2° ano", value: 2},
+        {label: "3° ano", value: 3},
+        {label: "4° ano", value: 4},
+        {label: "5° ano", value: 5},
+    ]
+
+    const handleSelect = (ev) => {
+        setAno(ev.target.value);
+        localStorage.setItem("presence-pro-anoSelecionado", JSON.stringify(ev.target.value));
+    }
+
+    const handleLink = (ev) => {
+        const path = String(ev.target.href);
+        const match = path.match(/[ABCDE]$/);
+        const serie = match ? match[0] : null;
+        localStorage.setItem("presence-pro-serieSelecionada", JSON.stringify(serie));
+    } 
+
     return (
         <div className={styles.turmasSelectContainer}>
             <div className={styles.selectAno}>
                 <h1>TURMAS</h1>
 
-                <select name="select">
-                    <option value="" selected disabled>Selecione o ano de 1 a 5</option>
-                    <option value="1">1° ano</option>
-                    <option value="2">2° ano</option>
-                    <option value="3">3° ano</option>
-                    <option value="4">4° ano</option>
-                    <option value="5">5° ano</option>
+                <select name="select" defaultValue="default" onChange={handleSelect}>
+                    <option value="default" disabled>Selecione o ano de 1 a 5</option>
+                    {options.map(option => (
+                        <option key={option.value} value={option.value}>{option.label}</option>
+                    ))}
                 </select>
+                
+            </div>
             
-            </div>
-
             <div className={styles.turmasList}>
-                <div className={styles.turma}>Turma 1°A</div>
-                <div className={styles.turma}>Turma 1°B</div>
-                <div className={styles.turma}>Turma 1°C</div>
-                <div className={styles.turma}>Turma 1°D</div>
-                <div className={styles.turma}>Turma 1°E</div>
-            </div>
+                {ano !== '' ? 
+                (  
+                    escola[ano-1].turmas.map((turma) => (
+                        <div key={turma.id} className={styles.turma} >
+                            <Link 
+                                className={styles.turmaLink}
+                                onClick={handleLink} 
+                                to={`/turmas/${turma.id}`}
+                            >
+                                Turma {turma.name}
+                            </Link>
+                        </div>
+                    ))
 
+                ) : null}
+            </div>
+            
         </div>
     )
 }
