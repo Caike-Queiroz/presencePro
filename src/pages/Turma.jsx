@@ -1,13 +1,15 @@
 import { useLoaderData } from "react-router-dom";
 import DataTable from "react-data-table-component";
-import { useState } from "react";
+import { useRef, useState } from "react";
+import generatePDF, { Margin } from 'react-to-pdf';
 
 export default function Turma() {
 
     // Traz os dados da turma selecionada
     const turma = useLoaderData();
     const [showFazerChamada, setShowFazerChamada] = useState(false);
-    
+
+    // Configurações da tabela
     const options = [
         {label: "Prof Katia - Matemática", value: 1},
         {label: "Prof Katia - Português", value: 2},
@@ -72,6 +74,7 @@ export default function Turma() {
         }
     ];
     
+    // Dados da tabela
     const data = turma.alunos;
 
     const customStyles = {
@@ -90,8 +93,28 @@ export default function Turma() {
                 fontSize: "1em"
             }
         },
-        
     }
+
+    const optionsPDF = {
+        method: "open",
+        page: {
+            margin: Margin.SMALL,
+            format: "A4",
+            orientation: "landscape",
+        },
+        canvas: {
+            mimeType: "image/png",
+            qualityRatio: 1,
+        },
+        overrides: {
+            pdf: {
+                compress: true,
+            },
+            canvas: {
+                useCORS: true,
+            },
+        },
+    };
 
     const handleSelect = (ev) => {
         localStorage.setItem("presence-pro-professorSelecionado", JSON.stringify(ev.target.value));
@@ -101,6 +124,8 @@ export default function Turma() {
         setShowFazerChamada(condition);
         console.log('Clicou !');
     }
+
+    const contentPDF = useRef();
 
     return (
         <div className="turmaContainer">
@@ -138,12 +163,12 @@ export default function Turma() {
                     <div className="turmaTitle">
                         <h1>TURMAS - {turma.name}</h1>
                         <div className="buttons">
-                            <button>Gerar relatório <img src="/./src/assets/download.png" alt="dark" /></button>
+                            <button onClick={() => generatePDF(contentPDF, optionsPDF)}>Gerar relatório <img src="/./src/assets/download.png" alt="dark" /></button>
                             <button onClick={() => handleShowFazerChamada(true)}>Fazer chamada</button>
                         </div>
                     </div>
 
-                    <div className="turmaTable">
+                    <div className="turmaTable" ref={contentPDF}>
                         <DataTable
                             columns={columns}
                             data={data}
