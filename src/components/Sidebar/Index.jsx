@@ -2,11 +2,16 @@ import { Link, useLocation } from "react-router-dom"
 import styles from "./styles.module.css"
 
 export default function Sidebar() {
+
     const { pathname } = useLocation();
     // console.log(pathname);
 
+    let selectedTheme = localStorage.getItem('ppads-temaSelecionado');
+    selectedTheme = JSON.parse(selectedTheme);
+    console.log(`selectedTheme ${selectedTheme}`);
+    
     return (
-        <aside className={styles.sidebar}>
+        <aside className={styles.sidebar} style={{ backgroundColor: selectedTheme === 'light' ? "#fff" : "#262626"}}>
             <div className={styles.ppLogo}>
                 <Link to="/"><img src="/./src/assets/presenceProLogo.svg" alt=""/></Link>
             </div>
