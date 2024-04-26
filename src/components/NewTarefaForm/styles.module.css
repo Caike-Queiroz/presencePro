@@ -59,3 +59,10 @@
   cursor: pointer;
   border-radius: 8px;
 }
+
+
+@media screen and (max-width: 425px) {
+  .tarefaFormContainer {
+    width: 16.5rem;
+  }
+}

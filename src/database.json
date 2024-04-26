@@ -10,182 +10,182 @@
           {
             "nome": "Caike do 1°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 1°A",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 1°A",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 1°A",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 1°A",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 1°A",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 1°A",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 1°A",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 1°A",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 1°A",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 1°A",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 1°A",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 1°A",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 1°A",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 1°A",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 1°A",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 1°A",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 1°A",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 1°A",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 1°A",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 1°A",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 1°A",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 1°A",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 1°A",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 1°A",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 1°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -199,182 +199,182 @@
           {
             "nome": "Caike do 1°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 1°B",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 1°B",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 1°B",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 1°B",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 1°B",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 1°B",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 1°B",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 1°B",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 1°B",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 1°B",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 1°B",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 1°B",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 1°B",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 1°B",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 1°B",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 1°B",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 1°B",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 1°B",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 1°B",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 1°B",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 1°B",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 1°B",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 1°B",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 1°B",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 1°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -388,182 +388,182 @@
           {
             "nome": "Caike do 1°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 1°C",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 1°C",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 1°C",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 1°C",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 1°C",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 1°C",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 1°C",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 1°C",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 1°C",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 1°C",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 1°C",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 1°C",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 1°C",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 1°C",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 1°C",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 1°C",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 1°C",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 1°C",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 1°C",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 1°C",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 1°C",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 1°C",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 1°C",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 1°C",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 1°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -577,182 +577,182 @@
           {
             "nome": "Caike do 1°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 1°D",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 1°D",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 1°D",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 1°D",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 1°D",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 1°D",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 1°D",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 1°D",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 1°D",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 1°D",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 1°D",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 1°D",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 1°D",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 1°D",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 1°D",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 1°D",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 1°D",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 1°D",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 1°D",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 1°D",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 1°D",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 1°D",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 1°D",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 1°D",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 1°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -766,182 +766,182 @@
           {
             "nome": "Caike do 1°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 1°E",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 1°E",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 1°E",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 1°E",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 1°E",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 1°E",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 1°E",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 1°E",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 1°E",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 1°E",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 1°E",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 1°E",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 1°E",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 1°E",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 1°E",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 1°E",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 1°E",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 1°E",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 1°E",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 1°E",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 1°E",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 1°E",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 1°E",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 1°E",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 1°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -960,182 +960,182 @@
           {
             "nome": "Caike do 2°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 2°A",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 2°A",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 2°A",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 2°A",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 2°A",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 2°A",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 2°A",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 2°A",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 2°A",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 2°A",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 2°A",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 2°A",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 2°A",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 2°A",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 2°A",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 2°A",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 2°A",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 2°A",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 2°A",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 2°A",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 2°A",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 2°A",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 2°A",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 2°A",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 2°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -1149,182 +1149,182 @@
           {
             "nome": "Caike do 2°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 2°B",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 2°B",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 2°B",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 2°B",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 2°B",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 2°B",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 2°B",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 2°B",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 2°B",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 2°B",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 2°B",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 2°B",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 2°B",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 2°B",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 2°B",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 2°B",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 2°B",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 2°B",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 2°B",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 2°B",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 2°B",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 2°B",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 2°B",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 2°B",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 2°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -1338,182 +1338,182 @@
           {
             "nome": "Caike do 2°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 2°C",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 2°C",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 2°C",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 2°C",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 2°C",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 2°C",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 2°C",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 2°C",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 2°C",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 2°C",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 2°C",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 2°C",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 2°C",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 2°C",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 2°C",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 2°C",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 2°C",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 2°C",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 2°C",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 2°C",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 2°C",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 2°C",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 2°C",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 2°C",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 2°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -1527,182 +1527,182 @@
           {
             "nome": "Caike do 2°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 2°D",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 2°D",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 2°D",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 2°D",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 2°D",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 2°D",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 2°D",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 2°D",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 2°D",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 2°D",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 2°D",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 2°D",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 2°D",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 2°D",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 2°D",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 2°D",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 2°D",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 2°D",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 2°D",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 2°D",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 2°D",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 2°D",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 2°D",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 2°D",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 2°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -1716,182 +1716,182 @@
           {
             "nome": "Caike do 2°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 2°E",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 2°E",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 2°E",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 2°E",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 2°E",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 2°E",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 2°E",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 2°E",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 2°E",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 2°E",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 2°E",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 2°E",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 2°E",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 2°E",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 2°E",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 2°E",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 2°E",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 2°E",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 2°E",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 2°E",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 2°E",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 2°E",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 2°E",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 2°E",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 2°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -1910,182 +1910,182 @@
           {
             "nome": "Caike do 3°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 3°A",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 3°A",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 3°A",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 3°A",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 3°A",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 3°A",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 3°A",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 3°A",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 3°A",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 3°A",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 3°A",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 3°A",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 3°A",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 3°A",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 3°A",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 3°A",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 3°A",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 3°A",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 3°A",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 3°A",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 3°A",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 3°A",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 3°A",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 3°A",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 3°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -2099,182 +2099,182 @@
           {
             "nome": "Caike do 3°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 3°B",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 3°B",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 3°B",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 3°B",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 3°B",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 3°B",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 3°B",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 3°B",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 3°B",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 3°B",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 3°B",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 3°B",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 3°B",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 3°B",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 3°B",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 3°B",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 3°B",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 3°B",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 3°B",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 3°B",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 3°B",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 3°B",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 3°B",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 3°B",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 3°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -2288,182 +2288,182 @@
           {
             "nome": "Caike do 3°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 3°C",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 3°C",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 3°C",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 3°C",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 3°C",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 3°C",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 3°C",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 3°C",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 3°C",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 3°C",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 3°C",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 3°C",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 3°C",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 3°C",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 3°C",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 3°C",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 3°C",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 3°C",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 3°C",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 3°C",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 3°C",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 3°C",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 3°C",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 3°C",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 3°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -2477,182 +2477,182 @@
           {
             "nome": "Caike do 3°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 3°D",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 3°D",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 3°D",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 3°D",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 3°D",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 3°D",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 3°D",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 3°D",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 3°D",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 3°D",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 3°D",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 3°D",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 3°D",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 3°D",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 3°D",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 3°D",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 3°D",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 3°D",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 3°D",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 3°D",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 3°D",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 3°D",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 3°D",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 3°D",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 3°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -2666,182 +2666,182 @@
           {
             "nome": "Caike do 3°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 3°E",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 3°E",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 3°E",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 3°E",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 3°E",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 3°E",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 3°E",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 3°E",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 3°E",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 3°E",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 3°E",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 3°E",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 3°E",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 3°E",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 3°E",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 3°E",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 3°E",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 3°E",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 3°E",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 3°E",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 3°E",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 3°E",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 3°E",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 3°E",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 3°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -2860,182 +2860,182 @@
           {
             "nome": "Caike do 4°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 4°A",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 4°A",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 4°A",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 4°A",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 4°A",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 4°A",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 4°A",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 4°A",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 4°A",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 4°A",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 4°A",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 4°A",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 4°A",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 4°A",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 4°A",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 4°A",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 4°A",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 4°A",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 4°A",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 4°A",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 4°A",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 4°A",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 4°A",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 4°A",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 4°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -3049,182 +3049,182 @@
           {
             "nome": "Caike do 4°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 4°B",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 4°B",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 4°B",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 4°B",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 4°B",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 4°B",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 4°B",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 4°B",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 4°B",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 4°B",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 4°B",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 4°B",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 4°B",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 4°B",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 4°B",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 4°B",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 4°B",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 4°B",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 4°B",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 4°B",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 4°B",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 4°B",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 4°B",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 4°B",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 4°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -3238,182 +3238,182 @@
           {
             "nome": "Caike do 4°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 4°C",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 4°C",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 4°C",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 4°C",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 4°C",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 4°C",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 4°C",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 4°C",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 4°C",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 4°C",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 4°C",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 4°C",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 4°C",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 4°C",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 4°C",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 4°C",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 4°C",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 4°C",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 4°C",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 4°C",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 4°C",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 4°C",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 4°C",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 4°C",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 4°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -3427,182 +3427,182 @@
           {
             "nome": "Caike do 4°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 4°D",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 4°D",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 4°D",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 4°D",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 4°D",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 4°D",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 4°D",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 4°D",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 4°D",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 4°D",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 4°D",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 4°D",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 4°D",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 4°D",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 4°D",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 4°D",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 4°D",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 4°D",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 4°D",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 4°D",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 4°D",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 4°D",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 4°D",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 4°D",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 4°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -3616,182 +3616,182 @@
           {
             "nome": "Caike do 4°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 4°E",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 4°E",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 4°E",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 4°E",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 4°E",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 4°E",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 4°E",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 4°E",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 4°E",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 4°E",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 4°E",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 4°E",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 4°E",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 4°E",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 4°E",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 4°E",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 4°E",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 4°E",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 4°E",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 4°E",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 4°E",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 4°E",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 4°E",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 4°E",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 4°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -3810,182 +3810,182 @@
           {
             "nome": "Caike do 5°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 5°A",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 5°A",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 5°A",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 5°A",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 5°A",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 5°A",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 5°A",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 5°A",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 5°A",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 5°A",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 5°A",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 5°A",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 5°A",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 5°A",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 5°A",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 5°A",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 5°A",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 5°A",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 5°A",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 5°A",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 5°A",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 5°A",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 5°A",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 5°A",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 5°A",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -3999,182 +3999,182 @@
           {
             "nome": "Caike do 5°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 5°B",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 5°B",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 5°B",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 5°B",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 5°B",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 5°B",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 5°B",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 5°B",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 5°B",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 5°B",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 5°B",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 5°B",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 5°B",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 5°B",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 5°B",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 5°B",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 5°B",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 5°B",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 5°B",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 5°B",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 5°B",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 5°B",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 5°B",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 5°B",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 5°B",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -4188,182 +4188,182 @@
           {
             "nome": "Caike do 5°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 5°C",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 5°C",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 5°C",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 5°C",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 5°C",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 5°C",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 5°C",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 5°C",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 5°C",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 5°C",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 5°C",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 5°C",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 5°C",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 5°C",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 5°C",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 5°C",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 5°C",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 5°C",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 5°C",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 5°C",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 5°C",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 5°C",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 5°C",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 5°C",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 5°C",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -4377,182 +4377,182 @@
           {
             "nome": "Caike do 5°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 5°D",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 5°D",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 5°D",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 5°D",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 5°D",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 5°D",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 5°D",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 5°D",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 5°D",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 5°D",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 5°D",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 5°D",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 5°D",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 5°D",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 5°D",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 5°D",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 5°D",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 5°D",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 5°D",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 5°D",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 5°D",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 5°D",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 5°D",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 5°D",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 5°D",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }
@@ -4566,182 +4566,182 @@
           {
             "nome": "Caike do 5°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           },
           {
             "nome": "Maria do 5°E",
             "matricula": 234567,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaMaria@email.com"
           },
           {
             "nome": "João do 5°E",
             "matricula": 345678,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoJoao@email.com"
           },
           {
             "nome": "Ana do 5°E",
             "matricula": 456789,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaAna@email.com"
           },
           {
             "nome": "Pedro do 5°E",
             "matricula": 567890,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoPedro@email.com"
           },
           {
             "nome": "Carla do 5°E",
             "matricula": 678901,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaCarla@email.com"
           },
           {
             "nome": "Lucas do 5°E",
             "matricula": 789012,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoLucas@email.com"
           },
           {
             "nome": "Mariana do 5°E",
             "matricula": 890123,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaMariana@email.com"
           },
           {
             "nome": "Paulo do 5°E",
             "matricula": 901234,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDoPaulo@email.com"
           },
           {
             "nome": "Julia do 5°E",
             "matricula": 112233,
-            "nPresenca": "145/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaJulia@email.com"
           },
           {
             "nome": "Gabriel do 5°E",
             "matricula": 223344,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoGabriel@email.com"
           },
           {
             "nome": "Amanda do 5°E",
             "matricula": 334455,
-            "nPresenca": "110/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaAmanda@email.com"
           },
           {
             "nome": "Felipe do 5°E",
             "matricula": 445566,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFelipe@email.com"
           },
           {
             "nome": "Camila do 5°E",
             "matricula": 556677,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDaCamila@email.com"
           },
           {
             "nome": "Diego do 5°E",
             "matricula": 667788,
-            "nPresenca": "140/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDoDiego@email.com"
           },
           {
             "nome": "Isabela do 5°E",
             "matricula": 778899,
-            "nPresenca": "115/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaIsabela@email.com"
           },
           {
             "nome": "Guilherme do 5°E",
             "matricula": 889900,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoGuilherme@email.com"
           },
           {
             "nome": "Laura do 5°E",
             "matricula": 990011,
-            "nPresenca": "120/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLaura@email.com"
           },
           {
             "nome": "Rodrigo do 5°E",
             "matricula": 100100,
-            "nPresenca": "100/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "paiDoRodrigo@email.com"
           },
           {
             "nome": "Larissa do 5°E",
             "matricula": 101101,
-            "nPresenca": "155/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaLarissa@email.com"
           },
           {
             "nome": "Fernando do 5°E",
             "matricula": 102102,
-            "nPresenca": "130/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoFernando@email.com"
           },
           {
             "nome": "Beatriz do 5°E",
             "matricula": 103103,
-            "nPresenca": "105/160",
+            "nPresenca": 0,
             "status": "reprovado",
             "contatoResponsavel": "maeDaBeatriz@email.com"
           },
           {
             "nome": "Henrique do 5°E",
             "matricula": 104104,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoHenrique@email.com"
           },
           {
             "nome": "Carolina do 5°E",
             "matricula": 105105,
-            "nPresenca": "125/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "maeDaCarolina@email.com"
           },
           {
             "nome": "Rafael do 5°E",
             "matricula": 106106,
-            "nPresenca": "135/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoRafael@email.com"
           },
           {
             "nome": "Caike do 5°E",
             "matricula": 123456,
-            "nPresenca": "150/160",
+            "nPresenca": 0,
             "status": "aprovado",
             "contatoResponsavel": "paiDoCaike@email.com"
           }

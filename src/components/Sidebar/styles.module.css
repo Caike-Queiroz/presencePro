@@ -5,6 +5,7 @@
   background-color: #fff;
   top: 0;
   bottom: 0;
+  z-index: 1;
   padding-left: 3rem;
   width: 14rem;
   border-right: 1px solid #495d72;
@@ -48,4 +49,16 @@ a.activated {
 
 .sidebar .exit img {
   margin-right: 0.5rem;
+}
+
+@media screen and (max-width: 1100px) {
+  .sidebar .exit {
+    padding-top: 18rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
 }

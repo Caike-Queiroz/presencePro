@@ -9,7 +9,6 @@
 
 .container {
   display: flex;
-  /* justify-content: center; */
   margin-left: 18rem;
   gap: 3rem;
 }
@@ -42,7 +41,7 @@ textarea {
   gap: 2rem;
 }
 
-.toDoList button{
+.toDoList button {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -80,13 +79,54 @@ textarea {
   color: #495D72;
 }
 
+@media screen and (max-width: 1085px) {
+  .container {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  article {
+    margin: 2rem 0 1rem 0;
+  }
+
+  textarea {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    display: flex;
+    align-items: center;
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  article {
+    width: 18.5rem; /* Article width - .toDoList width = 2rem*/
+  }
+
+  .toDoList {
+    width: 16.5rem;
+  }
+
+  .tarefaContainer {
+    width: 16.5rem;
+  }
+  
+  textarea {
+    width: 18.5rem;
+  }
+}
+
 /* Fim home */
 
 /* Início de Turma */
 
 .turmaContainer {
   margin-left: 18rem;
-  margin-right: 10rem;
+  margin-right: 2rem;
   margin-top: 2rem;
 }
 
@@ -162,5 +202,44 @@ textarea {
   padding: .8rem;
 }
 
+/* @media screen and (max-width: 1024px) {
+  .turmaTitle {
+    flex-direction: column;
+  }
 
+  .turmaContainer {
+    width: 25rem;
+  } 
+} */
+
+@media screen and (max-width: 768px) {
+  .turmaTitle {
+    gap: 10rem;
+  }
+
+  .turmaContainer {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .turmaTitle {
+    gap: 1rem;
+  }
+
+  .turmaTable {
+    width: 85%;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .turmaTitle {
+    align-items: center;
+    flex-direction: column;
+  }
+}
 /* Fim de Turma */

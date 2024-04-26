@@ -28,3 +28,41 @@
     background-color: #95C4FA;
     border: 0;
 }
+
+@media screen and (max-width: 1360px) {
+    .containerConfig {
+        justify-content: start;
+    }
+}
+
+@media screen and (max-width: 1260px) {
+    .containerConfig {
+        width: 21rem;
+    }
+
+    .select select {
+        width: 20rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .containerConfig {
+        display: flex;
+        justify-content: center;
+        margin-left: 2rem;
+    }
+
+    .select select {
+        width: 20rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .containerConfig {
+        width: 18rem;
+    }
+
+    .select select {
+        width: 16rem;
+    }
+}

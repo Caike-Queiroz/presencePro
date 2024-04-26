@@ -146,7 +146,6 @@ export default function Turma() {
                             columns={columns}
                             data={data}
                             selectableRows
-                            fixedHeader
                             // pagination
                             customStyles={customStyles}
                         />
@@ -173,7 +172,6 @@ export default function Turma() {
                             columns={columns}
                             data={data}
                             // selectableRows
-                            fixedHeader
                             // pagination
                             customStyles={customStyles}
                         />
