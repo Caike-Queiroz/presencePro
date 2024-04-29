@@ -1,0 +1,64 @@
+.sidebar {
+  position: fixed;
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  top: 0;
+  bottom: 0;
+  z-index: 1;
+  padding-left: 3rem;
+  width: 14rem;
+  border-right: 1px solid #495d72;
+}
+
+.sidebar .ppLogo {
+  padding: 3rem 2.5rem;
+}
+
+.sidebar nav {
+  padding-top: 12rem;
+  font-size: 1.2rem;
+}
+
+.sidebar li {
+  margin-bottom: 0.6rem;
+  list-style-type: none;
+}
+
+.sidebar a {
+  display: flex;
+  align-items: center;
+  color: #bdbdbd;
+  text-decoration: none;
+}
+
+a.activated {
+  color: #495d72;
+}
+
+.sidebar li img {
+  margin-right: 0.5rem;
+  scale: 0.9;
+}
+
+.sidebar .exit {
+  color: #495d72;
+  padding-top: 24rem;
+  font-size: 1.2rem;
+}
+
+.sidebar .exit img {
+  margin-right: 0.5rem;
+}
+
+@media screen and (max-width: 1100px) {
+  .sidebar .exit {
+    padding-top: 18rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar {
+    display: none;
+  }
+}

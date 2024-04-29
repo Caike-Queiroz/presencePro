@@ -1,0 +1,25 @@
+.welcomeText {
+  display: flex;
+  width: fit-content;
+  margin-top: 2rem;
+  margin-left: 18rem;
+  color: #495D72;
+}
+
+@media screen and (max-width: 768px) {
+  .welcomeText {
+    margin-left: 2rem;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .welcomeText {
+    font-size: .8rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .welcomeText {
+    font-size: .65rem;
+  }
+}

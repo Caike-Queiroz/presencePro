@@ -1,0 +1,68 @@
+.containerConfig {
+    display: flex;
+    justify-content: right;
+    margin-top: 8rem;
+    margin-left: 18rem;
+    padding: 2rem;
+    width: 60rem;
+}
+
+.select {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: #495D72;
+}
+
+.select select {
+    margin-top: 1rem;
+    width: 32rem;
+    border: 0;
+    padding: 1.05rem;
+    border-radius: 8px;
+    background-color: #E0E4EC;
+    color: #495D72;
+}
+
+.buttons {
+    background-color: #95C4FA;
+    border: 0;
+}
+
+@media screen and (max-width: 1360px) {
+    .containerConfig {
+        justify-content: start;
+    }
+}
+
+@media screen and (max-width: 1260px) {
+    .containerConfig {
+        width: 21rem;
+    }
+
+    .select select {
+        width: 20rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .containerConfig {
+        display: flex;
+        justify-content: center;
+        margin-left: 2rem;
+    }
+
+    .select select {
+        width: 20rem;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .containerConfig {
+        width: 18rem;
+    }
+
+    .select select {
+        width: 16rem;
+    }
+}

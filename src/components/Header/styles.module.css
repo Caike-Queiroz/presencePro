@@ -1,0 +1,142 @@
+header {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  padding-left: 18rem;
+  height: 5rem;
+  width: 100vw;
+  border-bottom: 2px solid #ced8e5;
+}
+
+.openResponsiveSidebarBtn {
+  display: flex;
+  /* border: 1px dashed red; */
+  justify-content: flex-start;
+  padding-left: 20px;
+  align-items: center;
+  width: 60px;
+  height: 5rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+  /* z-index: 1; */
+}
+
+.openResponsiveSidebarBtn:hover {
+  cursor: pointer;
+}
+
+.responsiveSidebar {
+  position: fixed;
+  display: none;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #fff;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
+  padding-left: 3rem;
+  max-height: 100vh;
+  width: 260px;
+  border-right: 1px solid #495d72;
+  font-size: 1.2rem;
+}
+
+.closeResponsiveSidebarBtn {
+  display: flex;
+  /* border: 1px dashed red; */
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 20px;
+  width: 260px;
+  height: 5rem;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.sidebarActive {
+  display: none;
+}
+
+.closeSidebarButton {
+  /* display: none; */
+}
+
+.linksContainer {
+  margin-top: 0;
+}
+
+.responsiveSidebar li {
+  margin-bottom: 0.6rem;
+  list-style-type: none;
+}
+
+.responsiveSidebar a {
+  display: flex;
+  font-size: 24px;
+  align-items: center;
+  color: #bdbdbd;
+  text-decoration: none;
+}
+
+a.activated {
+  color: #495d72;
+}
+
+.responsiveSidebar li img {
+  margin-right: 0.5rem;
+  scale: 0.9;
+}
+
+.responsiveSidebar .exit {
+  color: #495d72;
+  margin-top: 10rem;
+  font-size: 1.2rem;
+}
+
+.responsiveSidebar .exit img {
+  margin-right: 0.5rem;
+}
+
+.headerBtns {
+  margin-right: 5rem;
+}
+
+header button {
+  width: 3.5rem;
+  padding: 0.75rem;
+  border: 0;
+  cursor: pointer;
+  transition: .3s;
+}
+
+header button:hover {
+  background-color: aqua;
+  transition: .3s;
+}
+
+header .light {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+}
+
+header .dark img {
+  height: 20px;
+}
+
+header .dark {
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    padding: 0;
+  }
+
+  /* .headerBtns {
+    margin-right: 1rem;
+  } */
+}

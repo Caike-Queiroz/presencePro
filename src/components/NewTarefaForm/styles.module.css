@@ -1,0 +1,68 @@
+.tarefaFormContainer {
+  margin-top: 1.2rem;
+  border: 1px solid #1c1d2217;
+  border-radius: 12px;
+  padding: 0.5rem 0.5rem 1.1rem;
+  width: 20.5rem;
+  margin-bottom: 2rem;
+}
+
+.tarefaForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.tarefaForm > input {
+  padding: 0.5rem;
+  border: 0;
+  color: #495d72;
+  border-bottom: 2px solid #969696;
+  transition: 0.5s;
+}
+
+.tarefaForm > input:hover {
+  cursor: pointer;
+}
+
+.tarefaForm > input:focus {
+  border: 0;
+}
+
+.tarefaForm > input:active {
+  border: 0;
+}
+
+.tarefaForm > .buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  padding: 0.5rem;
+}
+
+.buttons > button {
+  padding: 0.3rem 0.4rem;
+  border: 0;
+  width: 5rem;
+}
+
+.buttons > .saveBtn {
+  background-color: #77dd77;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.buttons > .cancelBtn {
+  background-color: #ff4b4a;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+
+@media screen and (max-width: 425px) {
+  .tarefaFormContainer {
+    width: 16.5rem;
+  }
+}

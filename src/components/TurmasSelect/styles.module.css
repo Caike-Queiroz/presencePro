@@ -1,0 +1,149 @@
+.turmasSelectContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-left: 24rem;
+  margin-top: 2rem;
+}
+
+.selectAno {
+  width: 60rem;
+  display: flex;
+  justify-content: space-between;
+  height: fit-content;
+  border: 0;
+}
+
+.selectAno > h1 {
+  font-size: 2rem;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  color: #385385;
+}
+
+.selectAno > select {
+  border: 0;
+  border-radius: 8px;
+  font-size: 1.2rem;
+  font-weight: lighter;
+  background-color: #eee;
+  padding: 0.8rem;
+}
+
+.turmasList {
+  display: flex;
+  flex-direction: column;
+}
+
+.turma {
+  width: 60rem;
+  padding: 2rem;
+  margin-top: 2rem;
+  border-radius: 1rem;
+  font-size: 1.2rem;
+  color: #495d72;
+  border: 0;
+  background-color: #eee;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.turmaLink {
+  text-decoration: none;
+  color: #495d72;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.turmaLink:hover {
+  background-color: #80808031;
+}
+
+@media screen and (max-width: 1360px) {
+  .turmasSelectContainer {
+    margin-left: 18rem;
+    margin-top: 2rem;
+  }
+
+  .selectAno {
+    width: 55rem;
+  }
+
+  .turma {
+    width: 55rem;
+  }
+}
+
+@media screen and (max-width: 1160px) {
+  .turmasSelectContainer {
+    margin-left: 18rem;
+    margin-top: 2rem;
+  }
+
+  .selectAno {
+    width: 50rem;
+  }
+
+  .turma {
+    width: 50rem;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .turmasSelectContainer {
+    margin-left: 18rem;
+    margin-top: 2rem;
+  }
+
+  .selectAno {
+    width: 41rem;
+  }
+
+  .turma {
+    width: 41rem;
+  }
+}
+
+@media screen and (max-width: 980px) {
+  .turmasSelectContainer {
+    margin-left: 18rem;
+    margin-top: 2rem;
+  }
+
+  .selectAno {
+    width: 30rem;
+  }
+
+  .turma {
+    width: 30rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .turmasSelectContainer {
+    display: flex;
+    align-items: center;
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .selectAno {
+    width: 25rem;
+  }
+
+  .turma {
+    width: 25rem;
+  }
+}
+
+@media screen and (max-width: 475px) {
+  .selectAno {
+    width: 16.25rem;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .turma {
+    width: 18rem;
+  }
+}
