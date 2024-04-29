@@ -8,7 +8,7 @@ const database = new DatabasePostgres();
 const port = process.env.PORT || 3000;
 
 server.register(fastifyCors, {
-  origin: 'https://backend-delta-neon.vercel.app', // Ajustando a URL para remover a barra no final
+  origin: '*', // Ajustando a URL para remover a barra no final
 });
 
 server.addHook('onRequest', (request, reply, done) => {
