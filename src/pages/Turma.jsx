@@ -1,25 +1,42 @@
-import { useLoaderData } from "react-router-dom";
 import DataTable from "react-data-table-component";
-import { useRef, useState } from "react";
+import { useRef, useState, useEffect } from "react";
 import generatePDF, { Margin } from 'react-to-pdf';
+import axios from 'axios';
 
 export default function Turma() {
-
-    // Traz os dados da turma selecionada
-    const turma = useLoaderData();
+    const [turma, setTurma] = useState({});
     const [showFazerChamada, setShowFazerChamada] = useState(false);
+    const [professores, setProfessores] = useState([]);
+    const [alunos, setAlunos] = useState([]);
 
-    // Configurações da tabela
-    const options = [
-        {label: "Prof Katia - Matemática", value: 1},
-        {label: "Prof Katia - Português", value: 2},
-        {label: "Prof Katia - Artes", value: 3},
-        {label: "Prof Katia - Ciências", value: 4},
-        {label: "Prof Katia - História", value: 5},
-        {label: "Prof Katia - Geografia", value: 6},
-        {label: "Prof Carlos - Ed. Física", value: 7},
-        {label: "Prof Igor - Inglês", value: 8}
-    ]
+    useEffect(() => {
+        fetchData();
+    }, []);
+
+    const fetchData = async () => {
+        try {
+            const responseTurma = await axios.get('https://backend-delta-neon.vercel.app/turma', { headers: { 'Access-Control-Allow-Origin': '*' } });
+            setTurma(responseTurma.data);
+    
+            const responseAno = await axios.get('https://backend-delta-neon.vercel.app/ano', { headers: { 'Access-Control-Allow-Origin': '*' } });
+            setProfessores(responseAno.data);
+    
+            const responseAlunos = await axios.get('https://backend-delta-neon.vercel.app/aluno', { headers: { 'Access-Control-Allow-Origin': '*' } });
+            setAlunos(responseAlunos.data);
+        } catch (error) {
+            console.error('Erro ao buscar dados do backend:', error);
+        }
+    };
+    
+    const handleSelect = (ev) => {
+        localStorage.setItem("presence-pro-professorSelecionado", JSON.stringify(ev.target.value));
+    };
+
+    const handleShowFazerChamada = (condition) => {
+        setShowFazerChamada(condition);
+    };
+
+    const contentPDF = useRef();
 
     const columns = [
         {
@@ -30,15 +47,7 @@ export default function Turma() {
         {
             name: 'Matrícula',
             selector: row => row.matricula,
-            sortable: true,
-            conditionalCellStyles: [
-                {
-                    when: row => row.matricula,
-                    style: {
-                        color: "#1784E7", // Azul
-                    }
-                },
-            ]
+            sortable: true
         },
         {
             name: 'N° de presença',
@@ -48,24 +57,7 @@ export default function Turma() {
         {
             name: 'Status',
             selector: row => row.status,
-            sortable: true,
-            conditionalCellStyles: [
-                {
-                    when: row => row.status === 'aprovado',
-                    style: {
-                        color: "#449D44", // Verde
-                        textTransform: "capitalize"
-                    }
-                },
-                {
-                    when: row => row.status === 'reprovado',
-                    style: {
-                        color: "#FF4B4A", // Vermelho
-                        textTransform: "capitalize",
-                        // AZUL #1784E7
-                    }
-                }
-            ]
+            sortable: true
         },
         {
             name: 'Contato do Responsável',
@@ -74,9 +66,6 @@ export default function Turma() {
         }
     ];
     
-    // Dados da tabela
-    const data = turma.alunos;
-
     const customStyles = {
         headCells: {
             style: {
@@ -93,7 +82,7 @@ export default function Turma() {
                 fontSize: "1em"
             }
         },
-    }
+    };
 
     const optionsPDF = {
         method: "open",
@@ -116,27 +105,16 @@ export default function Turma() {
         },
     };
 
-    const handleSelect = (ev) => {
-        localStorage.setItem("presence-pro-professorSelecionado", JSON.stringify(ev.target.value));
-    }
-
-    const handleShowFazerChamada = (condition) => {
-        setShowFazerChamada(condition);
-        console.log('Clicou !');
-    }
-
-    const contentPDF = useRef();
-
     return (
         <div className="turmaContainer">
-            { showFazerChamada ? (
+            {showFazerChamada ? (
                 <>
                     <div className="turmaTitle">
                         <h1>TURMAS - {turma.name}</h1>
                         <select name="select" defaultValue="default" onChange={handleSelect}>
                             <option value="default" disabled>Selecione o Prof</option>
-                            {options.map(option => (
-                                <option key={option.value} value={option.value}>{option.label}</option>
+                            {professores.map(professor => (
+                                <option key={professor.id} value={professor.id}>{professor.name}</option>
                             ))}
                         </select>
                     </div>
@@ -144,9 +122,8 @@ export default function Turma() {
                     <div className="turmaTable">
                         <DataTable
                             columns={columns}
-                            data={data}
+                            data={alunos}
                             selectableRows
-                            // pagination
                             customStyles={customStyles}
                         />
                     </div>
@@ -155,7 +132,6 @@ export default function Turma() {
                         <button>Salvar</button>
                         <button onClick={() => handleShowFazerChamada(false)}>Cancelar</button>
                     </div>
-                    {/* <a href="mailto:caikequeiroz@gmail.com">caikequeiroz@gmail.com</a> */}
                 </>
             ) : (
                 <>
@@ -170,16 +146,12 @@ export default function Turma() {
                     <div className="turmaTable" ref={contentPDF}>
                         <DataTable
                             columns={columns}
-                            data={data}
-                            // selectableRows
-                            // pagination
+                            data={alunos}
                             customStyles={customStyles}
                         />
                     </div>
-
-                    {/* <a href="mailto:caikequeiroz@gmail.com">caikequeiroz@gmail.com</a> */}
                 </>
             )}
         </div>        
-    )
+    );
 }
