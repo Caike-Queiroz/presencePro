@@ -12,7 +12,7 @@ export default function Turma() {
     useEffect(() => {
         const fetchTurmas = async () => {
             try {
-                const response = await axios.get("https://ppads-final.vercel.app/turmas");
+                const response = await axios.get("https://backend-ppds.vercel.app/turmas");
                 console.log('Dados das turmas recebidos com sucesso:', response.data);
                 setTurmas(response.data);
             } catch (error) {
@@ -31,12 +31,12 @@ export default function Turma() {
             }
 
             console.log(`Buscando dados da turma com ID ${idTurmaSelecionada}...`);
-            const responseTurma = await axios.get(`https://ppads-final.vercel.app/turmas/${idTurmaSelecionada}`);
+            const responseTurma = await axios.get(`https://backend-ppds.vercel.app/turmas/${idTurmaSelecionada}`);
             console.log('Dados da turma recebidos com sucesso:', responseTurma.data);
             setTurmaSelecionada(responseTurma.data);
 
             console.log(`Buscando alunos da turma com ID ${idTurmaSelecionada}...`);
-            const responseAlunos = await axios.get(`https://ppads-final.vercel.app/turmas/${idTurmaSelecionada}/aluno`);
+            const responseAlunos = await axios.get(`https://backend-ppds.vercel.app/turmas/${idTurmaSelecionada}/aluno`);
             console.log('Dados dos alunos da turma recebidos com sucesso:', responseAlunos.data);
             setAlunosTurmaSelecionada(responseAlunos.data.map(aluno => ({ ...aluno })));
             setAlunosComPresenca([]); // Resetar a lista de presença ao selecionar nova turma
@@ -79,7 +79,7 @@ export default function Turma() {
       
             console.log(`Salvando chamada para aluno ${aluno.nome}...`);
       
-            const response = await axios.put(`https://ppads-final.vercel.app/turma/${aluno.matricula}`, {
+            const response = await axios.put(`https://backend-ppds.vercel.app/turma/${aluno.matricula}`, {
               matricula: aluno.matricula,
               npresenca: novaPresenca
             });
