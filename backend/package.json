@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "node --watch --no-warnings server.js",
-    "start": "node --watch --no-warnings server.js"
+    "start": "node --watch --no-warnings server.js",
+    "build": "node --watch --no-warnings server.js"
   },
   "keywords": [],
   "author": "",
