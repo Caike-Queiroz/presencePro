@@ -152,17 +152,11 @@ textarea {
   padding: .75rem;
   border: 0;
   border-radius: 60px;
-}
-
-.buttons > button:hover {
   cursor: pointer;
-  transition: .5s;
-  background-color: #61abff;
 }
 
-.buttons img {
-  margin-left: .5rem;
-  height: 16px;
+.turmaList > h2 {
+  margin-bottom: 2rem;
 }
 
 .turmaTable {
@@ -194,7 +188,7 @@ textarea {
 }
 
 .turmaTitle > select {
-  border: 0;
+  border: 1px solid #ccc;
   border-radius: 8px;
   font-size: 1.2rem;
   font-weight: lighter;
@@ -202,15 +196,63 @@ textarea {
   padding: .8rem;
 }
 
-/* @media screen and (max-width: 1024px) {
-  .turmaTitle {
-    flex-direction: column;
-  }
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
 
-  .turmaContainer {
-    width: 25rem;
-  } 
-} */
+li {
+  margin: 0;
+}
+
+button {
+  background-color: #7DE5B0;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #fff;
+  padding: 0.5rem 0.75rem;
+  border: 0;
+  border-radius: 60px;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #61abff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+select {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+}
 
 @media screen and (max-width: 768px) {
   .turmaTitle {
@@ -224,22 +266,22 @@ textarea {
     margin-left: 0;
     margin-right: 0;
   }
-}
 
-@media screen and (max-width: 720px) {
-  .turmaTitle {
-    gap: 1rem;
+  @media screen and (max-width: 720px) {
+    .turmaTitle {
+      gap: 1rem;
+    }
+  
+    .turmaTable {
+      width: 85%;
+    }
   }
-
-  .turmaTable {
-    width: 85%;
-  }
-}
-
-@media screen and (max-width: 630px) {
-  .turmaTitle {
-    align-items: center;
-    flex-direction: column;
+  
+  @media screen and (max-width: 630px) {
+    .turmaTitle {
+      align-items: center;
+      flex-direction: column;
+    }
   }
 }
 /* Fim de Turma */

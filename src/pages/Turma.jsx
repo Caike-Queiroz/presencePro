@@ -1,157 +1,174 @@
-import DataTable from "react-data-table-component";
-import { useRef, useState, useEffect } from "react";
-import generatePDF, { Margin } from 'react-to-pdf';
+import { useState, useEffect } from "react";
 import axios from 'axios';
 
 export default function Turma() {
-    const [turma, setTurma] = useState({});
+    const [turmas, setTurmas] = useState([]);
+    const [turmaSelecionada, setTurmaSelecionada] = useState(null);
+    const [alunosTurmaSelecionada, setAlunosTurmaSelecionada] = useState([]);
     const [showFazerChamada, setShowFazerChamada] = useState(false);
-    const [professores, setProfessores] = useState([]);
-    const [alunos, setAlunos] = useState([]);
+    const [alunosComPresenca, setAlunosComPresenca] = useState([]);
+    const [selectAll, setSelectAll] = useState(false);
 
     useEffect(() => {
-        fetchData();
+        const fetchTurmas = async () => {
+            try {
+                const response = await axios.get("http://localhost:3000/turmas");
+                console.log('Dados das turmas recebidos com sucesso:', response.data);
+                setTurmas(response.data);
+            } catch (error) {
+                console.error('Erro ao buscar dados das turmas:', error);
+            }
+        };
+
+        fetchTurmas();
     }, []);
 
-    const fetchData = async () => {
+    const handleTurmaSelecionada = async (idTurmaSelecionada) => {
         try {
-            const responseTurma = await axios.get('https://backend-delta-neon.vercel.app/turma', { headers: { 'Access-Control-Allow-Origin': '*' } });
-            setTurma(responseTurma.data);
-    
-            const responseAno = await axios.get('https://backend-delta-neon.vercel.app/ano', { headers: { 'Access-Control-Allow-Origin': '*' } });
-            setProfessores(responseAno.data);
-    
-            const responseAlunos = await axios.get('https://backend-delta-neon.vercel.app/aluno', { headers: { 'Access-Control-Allow-Origin': '*' } });
-            setAlunos(responseAlunos.data);
+            if (!idTurmaSelecionada) {
+                console.error('ID da turma não fornecido.');
+                return;
+            }
+
+            console.log(`Buscando dados da turma com ID ${idTurmaSelecionada}...`);
+            const responseTurma = await axios.get(`http://localhost:3000/turmas/${idTurmaSelecionada}`);
+            console.log('Dados da turma recebidos com sucesso:', responseTurma.data);
+            setTurmaSelecionada(responseTurma.data);
+
+            console.log(`Buscando alunos da turma com ID ${idTurmaSelecionada}...`);
+            const responseAlunos = await axios.get(`http://localhost:3000/turmas/${idTurmaSelecionada}/aluno`);
+            console.log('Dados dos alunos da turma recebidos com sucesso:', responseAlunos.data);
+            setAlunosTurmaSelecionada(responseAlunos.data.map(aluno => ({ ...aluno })));
+            setAlunosComPresenca([]); // Resetar a lista de presença ao selecionar nova turma
+            setShowFazerChamada(true); // Exibe automaticamente a chamada ao selecionar a turma
+            setSelectAll(false); // Resetar o checkbox pai
         } catch (error) {
             console.error('Erro ao buscar dados do backend:', error);
         }
     };
-    
-    const handleSelect = (ev) => {
-        localStorage.setItem("presence-pro-professorSelecionado", JSON.stringify(ev.target.value));
+
+    const handleCheckboxChange = (matricula) => {
+        setAlunosComPresenca(prevState => {
+            if (prevState.includes(matricula)) {
+                return prevState.filter(m => m !== matricula);
+            } else {
+                return [...prevState, matricula];
+            }
+        });
     };
 
-    const handleShowFazerChamada = (condition) => {
-        setShowFazerChamada(condition);
-    };
-
-    const contentPDF = useRef();
-
-    const columns = [
-        {
-            name: 'Nome',
-            selector: row => row.nome,
-            sortable: true
-        },
-        {
-            name: 'Matrícula',
-            selector: row => row.matricula,
-            sortable: true
-        },
-        {
-            name: 'N° de presença',
-            selector: row => row.nPresenca,
-            sortable: true
-        },
-        {
-            name: 'Status',
-            selector: row => row.status,
-            sortable: true
-        },
-        {
-            name: 'Contato do Responsável',
-            selector: row => row.contatoResponsavel,
-            sortable: true
+    const handleSelectAllChange = () => {
+        if (selectAll) {
+            setAlunosComPresenca([]);
+        } else {
+            setAlunosComPresenca(alunosTurmaSelecionada.map(aluno => aluno.matricula));
         }
-    ];
-    
-    const customStyles = {
-        headCells: {
-            style: {
-                background: "#F1F3F9",
-                color: "#495D72",
-                fontWeight: "600",
-                fontSize: "1em"
-            }
-        },
-        rows: {
-            style: {
-                background: "#eee",
-                color: "#495D72",
-                fontSize: "1em"
-            }
-        },
+        setSelectAll(!selectAll);
     };
 
-    const optionsPDF = {
-        method: "open",
-        page: {
-            margin: Margin.SMALL,
-            format: "A4",
-            orientation: "landscape",
-        },
-        canvas: {
-            mimeType: "image/png",
-            qualityRatio: 1,
-        },
-        overrides: {
-            pdf: {
-                compress: true,
-            },
-            canvas: {
-                useCORS: true,
-            },
-        },
-    };
+    const handleSaveChamada = async () => {
+        try {
+          if (!turmaSelecionada) {
+            console.error('Nenhuma turma selecionada.');
+            return;
+          }
+      
+          for (const aluno of alunosTurmaSelecionada) {
+            const presente = alunosComPresenca.includes(aluno.matricula);
+            const novaPresenca = presente ? aluno.npresenca + 1 : aluno.npresenca;
+      
+            console.log(`Salvando chamada para aluno ${aluno.nome}...`);
+      
+            const response = await axios.put(`http://localhost:3000/turma/${aluno.matricula}`, {
+              matricula: aluno.matricula,
+              npresenca: novaPresenca
+            });
+      
+            if (response.status === 200) {
+              console.log(`Chamada salva para aluno ${aluno.nome} com sucesso!`);
+            } else {
+              console.error(`Erro ao salvar a chamada para aluno ${aluno.nome}. Status: ${response.status}`);
+            }
+          }
+      
+          setShowFazerChamada(false);
+        } catch (error) {
+          console.error('Erro ao salvar a chamada:', error);
+        }
+      };
+      
 
     return (
         <div className="turmaContainer">
             {showFazerChamada ? (
                 <>
                     <div className="turmaTitle">
-                        <h1>TURMAS - {turma.name}</h1>
-                        <select name="select" defaultValue="default" onChange={handleSelect}>
-                            <option value="default" disabled>Selecione o Prof</option>
-                            {professores.map(professor => (
-                                <option key={professor.id} value={professor.id}>{professor.name}</option>
-                            ))}
-                        </select>
+                        <h1>TURMAS - {turmaSelecionada?.nome}</h1>
                     </div>
 
                     <div className="turmaTable">
-                        <DataTable
-                            columns={columns}
-                            data={alunos}
-                            selectableRows
-                            customStyles={customStyles}
-                        />
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th>
+                                        <input
+                                            type="checkbox"
+                                            checked={selectAll}
+                                            onChange={handleSelectAllChange}
+                                        />
+                                    </th>
+                                    <th>Matrícula</th>
+                                    <th>Nome</th>
+                                    <th>Presenças</th>
+                                    <th>Status</th>
+                                    <th>Contato do Responsável</th>
+                                    <th>ID da Turma</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                {alunosTurmaSelecionada.map(aluno => (
+                                    <tr key={aluno.matricula}>
+                                        <td>
+                                            <input
+                                                type="checkbox"
+                                                checked={alunosComPresenca.includes(aluno.matricula)}
+                                                onChange={() => handleCheckboxChange(aluno.matricula)}
+                                            />
+                                        </td>
+                                        <td>{aluno.matricula}</td>
+                                        <td>{aluno.nome}</td>
+                                        <td>{aluno.npresenca}</td>
+                                        <td>{aluno.status}</td>
+                                        <td>{aluno.contatoresponsavel}</td>
+                                        <td>{aluno.id_turma}</td>
+                                    </tr>
+                                ))}
+                            </tbody>
+                        </table>
                     </div>
-                    
+
                     <div className="turmaFooter">
-                        <button>Salvar</button>
-                        <button onClick={() => handleShowFazerChamada(false)}>Cancelar</button>
+                        <button onClick={handleSaveChamada}>Salvar</button>
+                        <button onClick={() => setShowFazerChamada(false)}>Cancelar</button>
                     </div>
                 </>
             ) : (
                 <>
                     <div className="turmaTitle">
-                        <h1>TURMAS - {turma.name}</h1>
-                        <div className="buttons">
-                            <button onClick={() => generatePDF(contentPDF, optionsPDF)}>Gerar relatório <img src="/./src/assets/download.png" alt="dark" /></button>
-                            <button onClick={() => handleShowFazerChamada(true)}>Fazer chamada</button>
-                        </div>
+                        <h1>Selecione uma Turma</h1>
                     </div>
 
-                    <div className="turmaTable" ref={contentPDF}>
-                        <DataTable
-                            columns={columns}
-                            data={alunos}
-                            customStyles={customStyles}
-                        />
+                    <div className="turmaList">
+                        <ul>
+                            {turmas.map((turma) => (
+                                <li key={turma.id_turma}>
+                                    <button onClick={() => handleTurmaSelecionada(turma.id_turma)}>{turma.nome}</button>
+                                </li>
+                            ))}
+                        </ul>
                     </div>
                 </>
             )}
-        </div>        
+        </div>
     );
 }

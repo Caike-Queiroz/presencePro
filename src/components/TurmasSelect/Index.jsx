@@ -30,10 +30,10 @@ export default function TurmasSelect() {
     return (
         <div className={styles.turmasSelectContainer}>
             <div className={styles.selectAno}>
-                <h1>TURMAS</h1>
+                <h1>ANO</h1>
 
                 <select name="select" defaultValue="default" onChange={handleSelect}>
-                    <option value="default" disabled>Selecione o ano de 1 a 5</option>
+                    <option value="default" disabled>Selecione o ano</option>
                     {options.map(option => (
                         <option key={option.value} value={option.value}>{option.label}</option>
                     ))}
